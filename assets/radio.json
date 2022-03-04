@@ -1,9 +1,9 @@
 {
-    "radio": [
+    "radios": [
         {
             "id": 1,
-            "name": "Kfm 94.5 live",
-            "tagline": "The Most Music to Make you feel Great!",
+            "name": "Kfm 94.5",
+            "tagline": "The Most Music. Feel Great!",
             "color": "0xffED1C24",
             "desc": "KFM 94.5 is a private South African radio owned by Primedia. It broadcasts from Cape Town to the Western Cape and selected areas of the Northern and Eastern Capes using the frequency 94.5 FM.",
             "url": "https://mytuner-radio.com/radio/kfm-radio-413042/",
@@ -13,6 +13,20 @@
             "category": "Pop",
             "disliked": false,
             "order": 1
+        },
+        {
+            "id": 2,
+            "name": "947",
+            "tagline": "Joburg's No. 1 Hit Music Station",
+            "color": "0xffED1C24",
+            "desc": "947, formerly known as 94.7 Highveld Stereo, is a radio station owned by Primedia that broadcasts from Johannesburg, Gauteng.",
+            "url": "https://mytuner-radio.com/radio/947-413770/",
+            "icon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/vFDWUHQTtU.png",
+            "image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/vFDWUHQTtU.png",
+            "lang": "English",
+            "category": "Adult Contemporary",
+            "disliked": false,
+            "order": 2
         }
     ]
 }
