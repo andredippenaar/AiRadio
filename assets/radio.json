@@ -1,0 +1,18 @@
+{
+    "radio": [
+        {
+            "id": 1,
+            "name": "Kfm 94.5 live",
+            "tagline": "The Most Music to Make you feel Great!",
+            "color": "0xffED1C24",
+            "desc": "KFM 94.5 is a private South African radio owned by Primedia. It broadcasts from Cape Town to the Western Cape and selected areas of the Northern and Eastern Capes using the frequency 94.5 FM.",
+            "url": "https://mytuner-radio.com/radio/kfm-radio-413042/",
+            "icon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/F2CHDnWnH9.png",
+            "image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/F2CHDnWnH9.png",
+            "lang": "English",
+            "category": "Pop",
+            "disliked": false,
+            "order": 1
+        }
+    ]
+}
